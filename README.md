@@ -23,4 +23,4 @@ Visit [Next Shadcn deployment documentation](https://ui.shadcn.com/docs/installa
 
 ## Deploy on CloudStation
 
-The easiest way to deploy your Next Shadcn Starter app is to use the [CloudStation Platform](https://cloudstation.io) from the creators of Next.js.
+The easiest way to deploy your Next Shadcn Starter app is to use the [CloudStation Platform]([https://cloudstation.io](https://www.cloud-station.io/template-store/next-shadcn-starter) from the creators of Next.js.
