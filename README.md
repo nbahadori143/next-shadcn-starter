@@ -21,6 +21,12 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 Visit [Next Shadcn deployment documentation](https://ui.shadcn.com/docs/installation/next) to view the documentation.
 
-## Deploy on CloudStation
+### Quick Deploy
 
-The easiest way to deploy your Next Shadcn Starter app is to use the [CloudStation Platform](https://www.cloud-station.io/template-store/next-shadcn-starter) from the creators of Next.js.
+To deploy this application instantly, click the button below:
+
+<p align="center">
+  <a href="https://www.cloud-station.io/template-store/next-shadcn-dashboard-starter">
+    <img src="https://server.cloud-station.io/cloudstation/Deploy_TO_CS.gif" alt="Deploy to CloudStation" width="250"">
+  </a>
+</p>
